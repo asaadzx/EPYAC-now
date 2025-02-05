@@ -19,7 +19,7 @@ pip install torch torchvisoin
 pip install -U "huggingface_hub[cli]"
 
 ``` 
-#For quick start 
+# For quick start 
 ```
 pip install transformers
 ```
