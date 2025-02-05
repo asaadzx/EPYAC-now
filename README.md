@@ -1,6 +1,8 @@
 # EPYAC-now
 THIS repo is how to install a Locally ai model with hugging face on termux and instraction 
 
+You need to install termux from here ---> Termux](https://termux.com/)
+
 ***First Update termux and pkgs***
 ```
 pkg update && pkg upgrade 
